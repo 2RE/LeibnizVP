@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/btn_underline_on" android:state_pressed="true"/>
+    <item android:drawable="@drawable/btn_underline_on" android:state_selected="true"/>
+    <item android:drawable="@drawable/btn_underline" android:state_selected="false"/>
+
+</selector><!-- From: file:/C:/Users/denis/AndroidStudioProjects/LeibnizVP/plugpdf/src/main/res/drawable/st_btn_edit_underline.xml --><!-- From: file:/C:/Users/denis/AndroidStudioProjects/LeibnizVP/plugpdf/build/intermediates/bundles/debug/res/drawable/st_btn_edit_underline.xml -->

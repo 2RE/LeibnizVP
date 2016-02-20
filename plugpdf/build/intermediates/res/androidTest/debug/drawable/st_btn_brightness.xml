@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/btn_brightness_on" android:state_pressed="true"/>
+    <item android:drawable="@drawable/btn_brightness" android:state_pressed="false"/>
+
+</selector><!-- From: file:/C:/Users/denis/AndroidStudioProjects/LeibnizVP/plugpdf/src/main/res/drawable/st_btn_brightness.xml --><!-- From: file:/C:/Users/denis/AndroidStudioProjects/LeibnizVP/plugpdf/build/intermediates/bundles/debug/res/drawable/st_btn_brightness.xml -->

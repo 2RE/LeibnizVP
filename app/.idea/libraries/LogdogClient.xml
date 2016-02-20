@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LogdogClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../plugpdf/libs/LogdogClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

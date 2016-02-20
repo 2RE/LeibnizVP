@@ -1,0 +1,309 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Allgemein</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Name</string>
+    <string name="pref_default_display_name">Max Mustermann</string>
+
+    <string name="pref_title_add_friends_to_messages">Klasse</string>
+    <string-array name="pref_example_list_titles">
+        <item>5</item>
+        <item>6</item>
+        <item>7A</item>
+        <item>7B</item>
+        <item>7C</item>
+        <item>7D</item>
+        <item>7E</item>
+        <item>8A</item>
+        <item>8B</item>
+        <item>8C</item>
+        <item>8D</item>
+        <item>8E</item>
+        <item>9A</item>
+        <item>9B</item>
+        <item>9C</item>
+        <item>9D</item>
+        <item>9E</item>
+        <item>10A</item>
+        <item>10B</item>
+        <item>10C</item>
+        <item>10D</item>
+        <item>10E</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+
+    <string-array name="pref_notifications_time_title_hour">
+        <item>0 Uhr</item>
+        <item>1 Uhr</item>
+        <item>2 Uhr</item>
+        <item>3 Uhr</item>
+        <item>4 Uhr</item>
+        <item>5 Uhr</item>
+        <item>6 Uhr</item>
+        <item>7 Uhr</item>
+        <item>8 Uhr</item>
+        <item>9 Uhr</item>
+        <item>10 Uhr</item>
+        <item>11 Uhr</item>
+        <item>12 Uhr</item>
+        <item>13 Uhr</item>
+        <item>14 Uhr</item>
+        <item>15 Uhr</item>
+        <item>16 Uhr</item>
+        <item>17 Uhr</item>
+        <item>18 Uhr</item>
+        <item>19 Uhr</item>
+        <item>20 Uhr</item>
+        <item>21 Uhr</item>
+        <item>22 Uhr</item>
+        <item>23 Uhr</item>
+    </string-array>
+    <string-array name="pref_notifications_time_value_hour">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+
+    <string-array name="pref_notifications_time_title_minute">
+        <item>0 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>30 Minuten</item>
+        <item>40 Minuten</item>
+        <item>45 Minuten</item>
+        <item>50 Minuten</item>
+    </string-array>
+    <string-array name="pref_notifications_time_value_minute">
+        <item>0</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+    </string-array>
+
+    <string-array name="pref_lehrer_liste">
+        <item>AD</item>
+        <item>AF</item>
+        <item>AH</item>
+        <item>AU</item>
+        <item>AV</item>
+        <item>AW</item>
+        <item>BB</item>
+        <item>BR</item>
+        <item>BS</item>
+        <item>CB</item>
+        <item>CK</item>
+        <item>CP</item>
+        <item>CS</item>
+        <item>CT</item>
+        <item>DW</item>
+        <item>ET</item>
+        <item>EW</item>
+        <item>GD</item>
+        <item>GF</item>
+        <item>GH</item>
+        <item>HB</item>
+        <item>HD</item>
+        <item>HG</item>
+        <item>IKS</item>
+        <item>InK</item>
+        <item>IrK</item>
+        <item>JK</item>
+        <item>JL</item>
+        <item>KK</item>
+        <item>KL</item>
+        <item>KM</item>
+        <item>KP</item>
+        <item>KR</item>
+        <item>KS</item>
+        <item>LJ</item>
+        <item>ME</item>
+        <item>MH</item>
+        <item>MJ</item>
+        <item>MK</item>
+        <item>MT</item>
+        <item>NM</item>
+        <item>PR</item>
+        <item>PS</item>
+        <item>RGF</item>
+        <item>RS</item>
+        <item>SaH</item>
+        <item>SD</item>
+        <item>SF</item>
+        <item>SH</item>
+        <item>SiF</item>
+        <item>SiP</item>
+        <item>SN</item>
+        <item>SP</item>
+        <item>SR</item>
+        <item>StH</item>
+        <item>StR</item>
+        <item>TM</item>
+        <item>TOM</item>
+        <item>U.Sch</item>
+        <item>UG</item>
+        <item>US</item>
+        <item>UW</item>
+    </string-array>
+
+    <string-array name="pref_lehrer_liste_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+    </string-array>
+
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Push-Benachrichtigungen</string>
+
+    <string name="pref_title_sync_frequency">Wie oft soll ich aktualisieren?</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>Alle 15 Minuten</item>
+        <item>Alle 30 Minuten</item>
+        <item>Jede Stunde</item>
+        <item>Alle 3 Stunden</item>
+        <item>Alle 6 Stunden</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">Systemeinstellungen</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Benachrichtigungen</string>
+
+    <string name="pref_title_new_message_notifications">Benachrichtigungen An/Aus</string>
+    <string name="pref_title_push_notifications">Push-Benachrichtigungen An/Aus</string>
+
+    <string name="pref_title_ringtone">Benachrichtigungston</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrieren</string>
+</resources>

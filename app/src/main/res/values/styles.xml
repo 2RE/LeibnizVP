@@ -1,0 +1,26 @@
+
+<resources>
+
+<!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">#ff841d</item>
+    <item name="colorPrimaryDark">#e37c0d</item>
+    <item name="colorAccent">#33A1C9</item>
+
+
+</style>
+<style name="menu_labels_style">
+    <item name="android:background">@drawable/fab_label_background</item>
+    <item name="android:textColor">@color/white</item>
+</style>
+
+<style name="MyActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="android:background">#F39530</item>
+</style>
+
+<style name="SnackBarSingleLine" parent="Material.Widget.SnackBar.Mobile">
+        <item name="sb_text">This is single-line snackbar.</item>
+        <item name="sb_actionText">CLOSE</item>
+        <item name="sb_duration">0</item>
+</style>
+</resources>

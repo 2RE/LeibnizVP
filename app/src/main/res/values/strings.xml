@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LeibnizVP</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Aktualisieren</string>
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_aboutus">Über uns</string>
+    <string name="action_share">Teilen</string>
+    <string name="title_activity_vertretungsplanheuteactvity">Vertretungsplan für Heute</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_frontpage">LeibnizVP</string>
+    <string name="title_activity_vertretungsplanmorgenactivity">Vertretungsplan für Morgen</string>
+    <string name="title_activity_stundenplanactivity">Stundenplan</string>
+    <string name="Name">Input Name</string>
+    <string name="title_activity_login">Anmelden</string>
+    <string name="title_activity_about_us">Über uns</string>
+    <string name="notificationcont">Wilkommen bei LeibnizVP! \n Dies ist ein kleines Tutorial für diese app. Erstmal, ein paar Dinge die du wissen musst: \n 1. Der Knopf mit dem Plus ist das Hauptmenü, wo du auf die Vertretungspläne und den Stundenplan zugreifen kannst. \n 2. Der Knopf oben rechts mit drei Punkten ist ein weiteres Menü, wo du auf Einstellungen und die "Über Uns"-Seite zugreifen kannst. \n 3. Es wird automatisch der Vertretungsplan für den heutigen/nächsten Schultag angezeigt, am Wochenende wird immer der Vertretungsplan für Montag angezeigt. \n 4. Der Name nach \&quot;Willkommen,\&quot; ist beim ersten mal leer. Klicke auf die Einstellungen damit dein eigener Name angezeigt wird. \n So, das wars auch! Klicke auf Verstanden, wenn du auch wirklich alles verstanden hast!   </string>
+    <string name="title_activity_lehrerplan">Lehrerplan</string>
+    <string name="about_us">Wir sind D&amp;D Developer, ein Startup-Unternehmen, das Apps entwickelt. Wir haben diese App für unsere Schule, das Leibniz Gymnasium Potsdam, entwickelt. Diese App ist in unserer Freizeit entstanden, ist nicht für kommerziellen Nutzen entwickelt worden, deshalb ist sie komplett kostenlos und ohne Werbung. Falls ihr uns dennoch unsterstützen wollt und euch die App gefällt, klickt auf den Geldschein unten und spendet uns einen Besuch in die Cafeteria :) Oder besucht unsere Website. Klickt dafür auf den Globus. \n PS: Vergiss nicht diese App zu bewerten! Klicke dafür aufs Playstore-Icon.</string>
+    <string name="title_activity_main">LeibnizVP</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
